@@ -1,4 +1,4 @@
-module go_bot
+module github.com/matesu777/DiscordBot-Go
 
 go 1.25.7
 

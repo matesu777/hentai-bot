@@ -29,6 +29,7 @@ go.work.sum
 
 # Type archive ignore
 *.jpg
+*.png
 
 # Editor/IDE
 # .idea/
