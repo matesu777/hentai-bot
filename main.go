@@ -1,6 +1,8 @@
 package main
 
-import "github.com/matesu777/DiscordBot-Go/bot"
+import (
+	"github.com/matesu777/DiscordBot-Go/bot"
+)
 
 func main(){
 	bot.Start()
